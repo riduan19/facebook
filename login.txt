@@ -6,3 +6,5 @@ type email address
 
 click on login
 
+logout
+
