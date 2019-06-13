@@ -1,5 +1,6 @@
 go to link
 
 type first name
-type middle name
 type last name
+type email address 
+
